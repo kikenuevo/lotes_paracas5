@@ -1,0 +1,92 @@
+@media (max-width: 600px) {
+
+  html,body{
+    padding: 0px;
+    margin: 0px;
+    font-family: GeosansLight;
+    font-size: 20px;
+  }
+
+nav{
+  display: inherit;
+  height: auto;
+  margin: auto;
+  margin-top: -30px;
+}
+
+
+  .lotes{
+    display: inherit;
+    height: auto;
+    text-align: center;
+  }
+
+
+  .contacto{
+    border-top: 1px solid #d2cbcb;
+    border-bottom: 1px solid #d2cbcb;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+  }
+
+.whatssap_images{
+  margin-top: auto;
+}
+
+.whatssap_images img{
+  margin-left: auto;
+  max-width: 50%;
+}
+
+.email_images img{
+  margin-left: auto;
+  max-width: 50%;
+}
+
+.lotes_img img{
+  padding: 0px;
+  margin-top: auto;
+  max-width: 100%;
+}
+
+.content{
+  margin-top: 5%;
+}
+
+.beneficios{
+  text-align: center;
+}
+
+.beneficio2_images{
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.beneficio1_images img{
+  max-width: 50%;
+}
+
+.beneficio2_images img{
+  max-width: 50%;
+}
+
+.zonas{
+  margin-top: 3%;
+}
+
+.mensaje1{
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      width: 100%;
+}
+
+.textarea{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+}
